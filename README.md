@@ -1,0 +1,15 @@
+# TIL
+
+## 2022-09-21
+
+### 리눅스 커맨드 라인 기초
+
+1. pwd
+  - print working directory
+
+2. cd
+  - change directory
+
+3. ls
+  - list
+    - ls 뒤에는 -a 나 -l 옵션을 붙일 수 있음
