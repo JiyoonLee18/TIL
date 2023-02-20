@@ -10,3 +10,4 @@ ADP필기 올패키지 데이터 분석 전문가를 정리한 노션 개인페�
 
 ## Chapter 2. 데이터 처리 기술의 이해
 [(1) 데이터 처리 프로세스](https://jyanalyst.notion.site/f52f884ebc38425fb851e1034ff76c8e)
+[(2) 데이터 처리 기술](https://www.notion.so/jyanalyst/cd081adcd5b14617872c12d5bc25b273#f206e6a2615d48ab8506a40e4d876563)
