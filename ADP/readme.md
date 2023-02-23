@@ -13,4 +13,8 @@ ADP필기 올패키지 데이터 분석 전문가를 정리한 노션 개인페�
 [(2) 데이터 처리 기술](https://www.notion.so/jyanalyst/cd081adcd5b14617872c12d5bc25b273#f206e6a2615d48ab8506a40e4d876563)
 
 ## Chapter 3. 데이터 분석 기획
-[(1) 데이터 분석의 이해(작성중)](https://jyanalyst.notion.site/248f18ecf0ab4350b74bc2010d6f6342)
+[(1) 데이터 분석의 이해](https://jyanalyst.notion.site/248f18ecf0ab4350b74bc2010d6f6342)
+[(2) 분석 마스터 플랜](https://jyanalyst.notion.site/c44655101de245b784ad75dcff49adf5)
+
+## Chapter 4. 데이터 분석
+[(1) 데이터 분석 개요(작성중)](https://jyanalyst.notion.site/8afe0355b9c7468c8d28bdd263a13c1b)
