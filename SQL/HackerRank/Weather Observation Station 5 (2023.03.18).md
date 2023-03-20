@@ -14,15 +14,15 @@ where **LAT_N** is the northern latitude and **LONG_W** is the western longi
 ### 답
 
 ```sql
-SELECT CITY, LENGTH(CITY)
+(SELECT CITY, LENGTH(CITY)
   FROM STATION
  ORDER BY LENGTH(CITY), CITY
- LIMIT 1;
-
-SELECT CITY, LENGTH(CITY)
+ LIMIT 1)
+UNION
+(SELECT CITY, LENGTH(CITY)
   FROM STATION
  ORDER BY LENGTH(CITY) DESC, CITY
- LIMIT 1;
+ LIMIT 1);
 ```
 
 ### 결과
