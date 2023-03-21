@@ -8,3 +8,8 @@
 ## 카카오스타일 DQ팀 인턴
 ### 커피챗
 [1월 커피챗](https://jyanalyst.notion.site/1-68a65cb24f674fa6bfbb68dc69d35e60)
+
+
+## 논문
+### 논문 정리 (번역, 그냥 내용)
+BlenderBot3 (https://jyanalyst.notion.site/BlenderBot3-3b6cc453a3ce4deaa4005cc16ebd7b47)
