@@ -12,4 +12,4 @@
 
 ## 논문
 ### 논문 정리 (번역, 그냥 내용)
-BlenderBot3 (https://jyanalyst.notion.site/BlenderBot3-3b6cc453a3ce4deaa4005cc16ebd7b47)
+[BlenderBot3] (https://jyanalyst.notion.site/BlenderBot3-3b6cc453a3ce4deaa4005cc16ebd7b47)
