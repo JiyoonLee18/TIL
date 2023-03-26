@@ -1,7 +1,7 @@
 # Weather Observation Station 10
 
 - 날짜: 2023.03.23
-- 문제: [https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)
+- 문제: [https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true)
 
 ### 문제
 
