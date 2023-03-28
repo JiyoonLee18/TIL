@@ -9,7 +9,7 @@ Find the difference between the total number of **CITY** entries in the table 
 
 The **STATION** table is described as follows:
 
-![https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg)
+![Untitled](https://user-images.githubusercontent.com/98992915/228222768-36478035-4162-4054-ab48-138eae4ef860.png)
 
 where **LAT_N** is the northern latitude and **LONG_W** is the western longitude.
 
