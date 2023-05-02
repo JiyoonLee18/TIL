@@ -7,7 +7,9 @@
 [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding](https://jyanalyst.notion.site/End-to-End-Memory-Networks-with-Knowledge-Carryover-for-Multi-Turn-Spoken-Language-Understanding-e067a040ac9449e9a58c60e4100262c7)  
 [Attention is all you need](https://www.notion.so/jyanalyst/Attention-is-all-you-need-7ae815b6e09a495ebe50fa9646562ebd)  
 [Building and Using Personal Knowledge Graph to Improve Suicidal Ideation Detection on Social Media](https://www.notion.so/jyanalyst/Building-and-Using-Personal-Knowledge-Graph-to-Improve-Suicidal-Ideation-Detection-on-Social-Media-9d28648f4f644d36be6a03313cb6f0f3)  
-[BERT, AutoML and Knowledge-graph backed Detection of Depression(진행중)](https://jyanalyst.notion.site/BERT-AutoML-and-Knowledge-graph-backed-Detection-of-Depression-4f14d0ea7a6b4a11a5f9240d96bcb7e3)
+[BERT, AutoML and Knowledge-graph backed Detection of Depression](https://jyanalyst.notion.site/BERT-AutoML-and-Knowledge-graph-backed-Detection-of-Depression-4f14d0ea7a6b4a11a5f9240d96bcb7e3)
+[KoBERT 모델을 이용한 YouTube 댓글 분석](https://jyanalyst.notion.site/KoBERT-YouTube-07c0f2b591bf448a9d331670f3416acb)
+[글로벌 화장품 브랜드의 소비자 만족도 분석: 텍스트마이닝 기반의 사용자 후기 분석을 중심으로](https://jyanalyst.notion.site/814bf9aa180840eb96ea2fcb7693c605)
 
 ### 정리 표
 Updated by 2023.05.02  
