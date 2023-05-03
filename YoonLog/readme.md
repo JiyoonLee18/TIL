@@ -3,7 +3,8 @@
 ## 따또같
 ### 데잇걸즈 카출팀 월간 세미나
 [2월 따또같: 데이터로 토이 서비스 만들기](https://jyanalyst.notion.site/cf602f080d1e4904931051c75e1d1a63)  
-[3월 따또같: 리대시 소개 및 느낀점](https://jyanalyst.notion.site/639293a6077b48fc8cdd932061d73460)
+[3월 따또같: 리대시 소개 및 느낀점](https://jyanalyst.notion.site/639293a6077b48fc8cdd932061d73460)  
+[4~5월 따또같: About 크롤링 (aka 스크래핑)](https://jyanalyst.notion.site/About-aka-cb3f4334d3b942758b49ea0d77f7e998)
 
 
 ## 카카오스타일 DQ팀 인턴
