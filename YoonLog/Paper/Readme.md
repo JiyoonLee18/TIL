@@ -12,7 +12,9 @@
 [글로벌 화장품 브랜드의 소비자 만족도 분석: 텍스트마이닝 기반의 사용자 후기 분석을 중심으로](https://jyanalyst.notion.site/814bf9aa180840eb96ea2fcb7693c605)
 
 ### 정리 표
-Updated by 2023.05.02  
-![2023_05_02 논문리스트](https://user-images.githubusercontent.com/98992915/235653777-619ac644-9f31-4f15-8779-2a5b8c1dd6a4.jpg)
+Updated by 2023.05.14  
+![2023_05_14 논문리스트 (이지윤)](https://github.com/JiyoonLee18/TIL/assets/98992915/c84c7cc8-6758-4d78-bf1e-55e1b11a3db8)  
+![2023_05_14 논문 조사(이지윤)](https://github.com/JiyoonLee18/TIL/assets/98992915/040a099c-d748-44d6-a117-8821350ca8c3)
+
 
 
