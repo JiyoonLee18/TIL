@@ -1,6 +1,7 @@
 리뷰한 논문을 모아둔 폴더입니다.
 
 ### 논문 정리 (번역, 그냥 내용)
+#### 챗봇
 [BlenderBot3](https://jyanalyst.notion.site/BlenderBot3-3b6cc453a3ce4deaa4005cc16ebd7b47)  
 [소아청소년암 관련 2개 논문](https://jyanalyst.notion.site/4c45b3b2e3ff473089bd10be0071eb6a)  
 [Artificial Intelligence Chatbot Behavior Change Model for Designing Artificial Intelligence Chatbots to Promote Physical Activity and a Healthy Diet: Viewpoint](https://jyanalyst.notion.site/601009058425456495b1e4a8bc4d00a2)  
@@ -10,6 +11,11 @@
 [BERT, AutoML and Knowledge-graph backed Detection of Depression](https://jyanalyst.notion.site/BERT-AutoML-and-Knowledge-graph-backed-Detection-of-Depression-4f14d0ea7a6b4a11a5f9240d96bcb7e3)
 [KoBERT 모델을 이용한 YouTube 댓글 분석](https://jyanalyst.notion.site/KoBERT-YouTube-07c0f2b591bf448a9d331670f3416acb)  
 [글로벌 화장품 브랜드의 소비자 만족도 분석: 텍스트마이닝 기반의 사용자 후기 분석을 중심으로](https://jyanalyst.notion.site/814bf9aa180840eb96ea2fcb7693c605)
+
+#### CNN (침수지역 탐지)
+[딥러닝을 이용한 가로경관과 범죄 발생과의 상관관계 분석](https://jyanalyst.notion.site/e64b87ba7d904f2b8608f47bd557ed0a)  
+[비정형 데이터와 딥러닝을 활용한 내수침수 탐지기술 개발](https://jyanalyst.notion.site/Development-of-a-method-for-urban-flooding-detection-using-unstructured-data-and-deep-learing-067847b2171c44eb9689ff711d5eec34)  
+
 
 ### 정리 표
 Updated by 2023.05.14  
