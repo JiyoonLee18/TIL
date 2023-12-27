@@ -1,0 +1,2 @@
+- streamlit 공부
+ - 테디노트 튜토리얼 따라하기 [링크](https://www.youtube.com/watch?v=Gr5Vuo7TCaE&list=PLIMb_GuNnFweSpt4s8BhlN7EggZnWWqy6)
